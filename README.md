@@ -1,0 +1,2 @@
+I have created a gym website that covers all aspects of health. Below is the home page of the project. I've completed the entire project, including the backend, which allows users to log in and track their progress and calorie intake using PHP. Each account is personalized for the user. For now, I'm showcasing the home page, but in the future, I'll be sharing more of my skills across various areas. Enjoy! 😊
+
